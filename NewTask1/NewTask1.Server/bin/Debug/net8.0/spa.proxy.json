@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:4200",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\AnkitaGupta\\Desktop\\NewTask1\\NewTask1.Server\\..\\newtask1.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

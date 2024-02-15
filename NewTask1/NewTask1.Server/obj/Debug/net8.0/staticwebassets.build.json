@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "zx5UnonWlGqmadecgz3mbf/jJmQgXWrisn7MwS29+Hg=",
+  "Source": "NewTask1.Server",
+  "BasePath": "_content/NewTask1.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\AnkitaGupta\\Desktop\\NewTask1\\newtask1.client\\newtask1.client.esproj",
+      "Version": 2,
+      "Source": "newtask1.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
